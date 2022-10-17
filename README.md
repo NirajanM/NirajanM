@@ -1,18 +1,14 @@
 
 <div id="rootContainer">
   <!--- <img src="https://komarev.com/ghpvc/?username=NirajanM&style=flat-square&color=blue" alt=""/> --->
-  <img src="./cover.jpg" />
-
-  ---
-  
   <div>
-  <h1 align="center">About Me:</h1>
+  <h1 align="left">About Me:</h1>
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="160">
-  <p> I am a Full Stack Developer from Rajahar,Nepal & I am good at programming.</p>
+  <p> I am a Full Stack Web Developer from Nawaplur, Nepal.</p>
   
 - :telescope: I’m investing my time in MERN stack and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Wordpress very soon.
+- :seedling: I am good at programming and I love music.
 
 - :zap: In my free time, I solve problems on  <a href="https://cssbattle.dev">cssbattle.dev</a> and dive into random tech stuffs and articles.
 
@@ -22,6 +18,8 @@
   
   </div>
   
+ <img src="./cover.jpg" />
+
   ---
 
 <h2 align="center">:hammer_and_wrench: Languages and Tools :</h2>
