@@ -2,11 +2,11 @@
 <div id="rootContainer">
   <!--- <img src="https://komarev.com/ghpvc/?username=NirajanM&style=flat-square&color=blue" alt=""/> --->
   <img src="./cover.jpg" />
-  <div align="left">
-  
+
   ---
   
-  <h1>:man_technologist: About Me :</h1>
+  <div>
+  <h1 align="center">About Me:</h1>
    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="160">
   <p> I am a Full Stack Developer from Rajahar,Nepal & I am good at programming.</p>
   
@@ -24,11 +24,13 @@
   
   ---
 
-<h2>:hammer_and_wrench: Languages and Tools :</h2>
+<h2 align="center">:hammer_and_wrench: Languages and Tools :</h2>
+<br>
 <div>
   <img src="https://github.com/NirajanM/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/NirajanM/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/NirajanM/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
@@ -44,14 +46,21 @@
   <img src="https://github.com/NirajanM/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+<br>
 
 ---
 
-<h2>:chart_with_upwards_trend: My Stats :</h2>
+
+<h2 align="center">:chart_with_upwards_trend: My Stats :</h2>
+
+<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NirajanM&theme=soft-green)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirajanM&layout=compact&theme=vision-friendly-dark)](https://github.com/NirajanM/github-readme-stats)
+
+</div>
+
 ---
 
   <h2 align="center">find me on :</h2>
