@@ -24,7 +24,7 @@
   
   ---
 
-### :hammer_and_wrench: Languages and Tools :
+<h2>:hammer_and_wrench: Languages and Tools :</h2>
 <div>
   <img src="https://github.com/NirajanM/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -45,7 +45,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-  ---
+---
+
+<h2>:chart_with_upwards_trend: My Stats :</h2>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=NirajanM&theme=soft-green)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirajanM&layout=compact&theme=vision-friendly-dark)](https://github.com/NirajanM/github-readme-stats)
+---
+
   <h2 align="center">find me on :</h2>
    <div id="badges" align="center">
   <a href="https://np.linkedin.com/in/nirajan-malla-36a111210">
