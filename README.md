@@ -8,7 +8,7 @@
   
 - :telescope: I’m investing my time in MERN stack and contributing to frontend and backend for building web applications.
 
-- :seedling: I am good at programming and I love music.
+- :seedling: I am good at programming and I love music (indie, pop, chill, lofi and soft rock 😉).
 
 - :zap: In my free time, I solve problems on  <a href="https://cssbattle.dev">cssbattle.dev</a> and dive into random tech stuffs and articles.
 
