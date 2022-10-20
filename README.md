@@ -1,24 +1,27 @@
 
 <div id="rootContainer">
   <!--- <img src="https://komarev.com/ghpvc/?username=NirajanM&style=flat-square&color=blue" alt=""/> --->
-  <div>
-  <h1 align="left">About Me:</h1>
-   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="160">
-  <p> I am a Full Stack Web Developer from Nawaplur, Nepal.</p>
   
-- :telescope: I’m investing my time in MERN stack and contributing to frontend and backend for building web applications.
+ <img src="./cover.jpg" />
+
+<div align="left">
+  
+  <div align="center">
+  <h1 align="center">About Me:</h1>
+   </div>
+   
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="160">
+    <p>&emsp;I am a Full Stack Web Developer from Nawaplur, Nepal and I love frontend part more than backend</p>
+  
+- :telescope: I’m investing my time in MERN stack, contributing as fullstack for building web applications.
 
 - :seedling: I am good at programming and I love music (indie, pop, chill, lofi and soft rock 😉).
 
 - :zap: In my free time, I solve problems on  <a href="https://cssbattle.dev">cssbattle.dev</a> and dive into random tech stuffs and articles.
 
-- regret :question: -> gave more than 1 year of my time to vanilla HTML, CSS and JS.
+- :star: Regrets in my journey :question: -> gave couple years of my time to HTML, CSS and JS ( all vanilla ).
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mr.Nrzn-blue?style=flat&logo=Linkedin&logoColor=white)](https://np.linkedin.com/in/nirajan-malla-36a111210")
-  
   </div>
-  
- <img src="./cover.jpg" />
 
   ---
 
