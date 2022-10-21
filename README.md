@@ -7,19 +7,20 @@
 <div align="left">
   
   <div align="center">
-  <h1 align="center">About Me:</h1>
+  <h2 align="center">👋,I'm Nirajan</h2>
    </div>
-   
+   <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="160">
-    <p>&emsp;I am a Full Stack Web Developer from Nawaplur, Nepal and I love frontend part more than backend</p>
+  </div>
+  <h3>&emsp;a Full Stack Web Developer from Nawaplur, Nepal, investing his time in MERN stack and web designing.</h3>
   
-- :telescope: I’m investing my time in MERN stack, contributing as fullstack for building web applications.
+- :telescope: I love to contribute as fullstack for building web applications and aim to be a good freelancer someday, atleast.
 
 - :seedling: I am good at programming and I love music (indie, pop, chill, lofi and soft rock 😉).
 
 - :zap: In my free time, I solve problems on  <a href="https://cssbattle.dev">cssbattle.dev</a> and dive into random tech stuffs and articles.
 
-- :star: Regrets in my journey :question: -> gave couple years of my time to HTML, CSS and JS ( all vanilla ).
+- :star: Regrets in my journey :question: -> gave couple of years of my time to HTML, CSS and JS alone( all vanilla ).
 
   </div>
 
