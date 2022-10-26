@@ -7,12 +7,13 @@
 <div align="left">
   
   <div align="center">
-  <h2 align="center">👋,I'm Nirajan</h2>
+  <h3 align="center">👋,I'm Nirajan</h3>
    </div>
    <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="160">
   </div>
-  <h3>&emsp;a Full Stack Web Developer from Nawaplur, Nepal, investing his time in MERN stack and web designing.</h3>
+
+- <strong>A Full Stack Web Developer from Nawaplur, Nepal, investing his time in MERN stack and web designing.</strong>
   
 - :telescope: I love to contribute as fullstack for building web applications and aim to be a good freelancer someday, atleast.
 
@@ -26,7 +27,7 @@
 
   ---
 
-<h2 align="center">:hammer_and_wrench: Languages and Tools :</h2>
+<h3 align="center">:hammer_and_wrench: Languages and Tools :</h3>
 <br>
 <div>
   <img src="https://github.com/NirajanM/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -53,7 +54,7 @@
 ---
 
 
-<h2 align="center">:chart_with_upwards_trend: My Stats :</h2>
+<h3 align="center">:chart_with_upwards_trend: My Stats :</h3>
 
 <div align="center">
 
