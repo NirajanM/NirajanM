@@ -24,6 +24,8 @@
 - :star: Regrets in my journey :question: -> gave couple of years of my time to HTML, CSS and JS alone( all vanilla ).
 
   </div>
+ 
+[![@nirajanm's Holopin board](https://holopin.me/nirajanm)](https://holopin.io/@nirajanm)
 
   ---
 
