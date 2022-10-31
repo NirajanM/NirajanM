@@ -7,7 +7,7 @@
 <div align="left">
   
   <div align="center">
-  <h3 align="center">👋,I'm Nirajan</h3>
+  <h2 align="center">👋,I'm Nirajan</h2>
    </div>
    <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="160">
@@ -29,7 +29,7 @@
 
   ---
 
-<h3 align="center">:hammer_and_wrench: Languages and Tools :</h3>
+<h2 align="center">:hammer_and_wrench: Languages and Tools :</h2>
 <br>
 <div>
   <img src="https://github.com/NirajanM/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -56,7 +56,7 @@
 ---
 
 
-<h3 align="center">:chart_with_upwards_trend: My Stats :</h3>
+<h2 align="center">:chart_with_upwards_trend: My Stats :</h2>
 
 <div align="center">
 
