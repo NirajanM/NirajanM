@@ -1,14 +1,13 @@
-
+ <a href="https://nirajanmalla.com.np">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=22&duration=4000&pause=1000&color=0034F7&vCenter=true&width=435&lines=Hi%2C+beautiful+souls.;Keep+Coding+%3A)" alt="Typing SVG" />
+  </a>
 <div id="rootContainer">
-  <!--- <img src="https://komarev.com/ghpvc/?username=NirajanM&style=flat-square&color=blue" alt=""/> --->
-  
+   <a href="https://nirajanmalla.com.np">
  <img src="./cover.jpg" />
+  </a>
 
 <div align="left">
   
-  <div align="center">
-  <h2 align="center">👋,I'm Nirajan</h2>
-   </div>
    <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="160">
   </div>
@@ -74,9 +73,6 @@
   </a>
   <a href="https://youtube.com/c/nirajanmalla">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://www.facebook.com/Mr.Nrzn/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
+     </a>
 </div>
 </div>
