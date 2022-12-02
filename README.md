@@ -13,13 +13,20 @@
  <img src="./about me.gif" height="82px" margin=""/>
   <br/>
    
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="160">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="500" height="320">
 
 - Full stack developer (MERN)
 - loves React.ts
 - crush on web 3.0 and metaverse
 - good at programming
 - coding everyday
+ <br/>
+ <br/>
+ 
+any freelance work ?, [do reach me](mailto:nirajannitr05@gmail.com)<br/> 💬 ask me about anything, i am happy to help;
+ 
+ <br/>
+ My holopin collection:
 
   </div>
  
@@ -27,8 +34,11 @@
 
   ---
 
-<h2 align="center">:hammer_and_wrench: Languages and Tools :</h2>
-<br>
+<h2>STATS:</h2>
+ 
+ <div align="left">
+ <h4>Hands-on Skills:</h4>
+ <br/>
 <div>
   <img src="https://github.com/NirajanM/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -49,26 +59,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <br>
-
----
-
-
-<h2 align="center">:chart_with_upwards_trend: My Stats :</h2>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=NirajanM&theme=soft-green)](https://git.io/streak-stats)
-
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirajanM&layout=compact&theme=vision-friendly-dark)](https://github.com/NirajanM/github-readme-stats)
 
-<a href="http://www.github.com/NirajanM"><img src="https://activity-graph.herokuapp.com/graph?username=NirajanM&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-</div>
-
----
-
-  <h2 align="center">find me on :</h2>
-   <div id="badges" align="center">
+  <h4>find me on :</h4>
+   <div id="badges">
   <a href="https://np.linkedin.com/in/nirajan-malla-36a111210">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -76,4 +71,5 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
      </a>
 </div>
+ </div>
 </div>
