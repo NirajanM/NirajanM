@@ -1,26 +1,25 @@
+<div id="rootContainer">
+
  <a href="https://nirajanmalla.com.np">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=22&duration=4000&pause=1000&color=0034F7&vCenter=true&width=435&lines=Hi%2C+beautiful+souls.;Keep+Coding+%3A)" alt="Typing SVG" />
   </a>
-<div id="rootContainer">
+
    <a href="https://nirajanmalla.com.np">
  <img src="./cover.jpg" />
   </a>
 
-<div align="left">
-  
-   <div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="160">
-  </div>
+<div align="left"> 
+<br/>
+ <img src="./about me.gif" height="82px" margin=""/>
+  <br/>
+   
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="160">
 
-- <strong>A Full Stack Web Developer from Nawaplur, Nepal, investing his time in MERN stack and web designing.</strong>
-  
-- :telescope: I love to contribute as fullstack for building web applications and aim to be a good freelancer someday, atleast.
-
-- :seedling: I am good at programming and I love music (indie, pop, chill, lofi and soft rock 😉).
-
-- :zap: In my free time, I solve problems on  <a href="https://cssbattle.dev">cssbattle.dev</a> and dive into random tech stuffs and articles.
-
-- :star: Regrets in my journey :question: -> gave couple of years of my time to HTML, CSS and JS alone( all vanilla ).
+- Full stack developer (MERN)
+- loves React.ts
+- crush on web 3.0 and metaverse
+- good at programming
+- coding everyday
 
   </div>
  
@@ -61,6 +60,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=NirajanM&theme=soft-green)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirajanM&layout=compact&theme=vision-friendly-dark)](https://github.com/NirajanM/github-readme-stats)
+
+<a href="http://www.github.com/NirajanM"><img src="https://activity-graph.herokuapp.com/graph?username=NirajanM&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 </div>
 
