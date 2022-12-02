@@ -62,6 +62,8 @@ any freelance work ?, [do reach me](mailto:nirajannitr05@gmail.com)<br/> 💬 as
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirajanM&layout=compact&theme=vision-friendly-dark)](https://github.com/NirajanM/github-readme-stats)
 
+<img src="./NinjaQr.png" align="right" height="150px">
+ 
   <h4>find me on :</h4>
    <div id="badges">
   <a href="https://np.linkedin.com/in/nirajan-malla-36a111210">
