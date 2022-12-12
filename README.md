@@ -60,7 +60,7 @@ any freelance work ?, [do reach me](mailto:nirajannitr05@gmail.com)<br/> 💬 as
 </div>
 <br>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirajanM&layout=compact&theme=vision-friendly-dark)](https://github.com/NirajanM/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirajanM&langs_count=6&layout=compact)](https://github.com/NirajanM)
 
 <img src="./NinjaQr.png" align="right" height="150px">
  
