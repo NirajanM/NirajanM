@@ -1,7 +1,7 @@
 <div id="rootContainer">
 
  <a href="https://nirajanmalla.com.np">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4500&pause=500&color=808080&background=FFFFFF00&vCenter=true&width=435&lines=Hi%2C+beautiful+souls.;keep+coding+%3A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4500&pause=500&color=808080&background=FFFFFF00&vCenter=true&width=435&lines=Hi%2C+beautiful+souls.;keep+coding+%3A)" alt="Typing SVG" />
   </a>
  
 
