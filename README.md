@@ -14,7 +14,7 @@
  <img src="./about me.gif" height="82px" margin=""/>
   <br/>
    
-  <img src="./codingNinja.png" align="right" height="290">
+  <img src="./codingNinja.png" align="right" height="305">
 
 - Full stack developer (MERN)
 - loves React.ts
