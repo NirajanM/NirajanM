@@ -14,7 +14,6 @@
  <img src="./about me.gif" height="82px" margin=""/>
   <br/>
    
-  <img src="./codingNinja.png" align="right" height="290">
 
 - Full stack developer (MERN)
 - loves React.ts
@@ -25,10 +24,11 @@
  <br/>
  
 any freelance work ?, [do reach me](mailto:nirajannitr05@gmail.com)<br/> 💬 ask me about anything, i am happy to help;
+
+<img src="./codingNinja.png"  align="right" >
  
  <br/>
- My holopin collection:
-
+  
   </div>
  
 [![@nirajanm's Holopin board](https://holopin.me/nirajanm)](https://holopin.io/@nirajanm)
