@@ -25,7 +25,7 @@
  
 any freelance work ?, [do reach me](mailto:nirajannitr05@gmail.com)<br/> 💬 ask me about anything, i am happy to help;
 
-<img src="./codingNinja.png"  align="right" >
+<img src="./codingNinjaCropped.png"  align="right" >
  
  <br/>
   
