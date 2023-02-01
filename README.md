@@ -24,8 +24,6 @@
  <br/>
  
 any freelance work ?, [do reach me](mailto:nirajannitr05@gmail.com)<br/> 💬 ask me about anything, i am happy to help;
-
-<img src="./codingNinjaCropped.png"  align="right" >
  
  <br/>
   
@@ -35,11 +33,12 @@ any freelance work ?, [do reach me](mailto:nirajannitr05@gmail.com)<br/> 💬 as
 
   ---
 
-<h2>STATS:</h2>
+<h2>MY STATS</h2>
  
  <div align="left">
- <h4>Hands-on Skills:</h4>
+ <strong>Hands-on Skills:</strong>
  <br/>
+<br/>
 <div>
   <img src="https://github.com/NirajanM/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -65,7 +64,7 @@ any freelance work ?, [do reach me](mailto:nirajannitr05@gmail.com)<br/> 💬 as
 
 <img src="./NinjaQr.png" align="right" height="150px">
  
-  <h4>find me on :</h4>
+  <strong>find me on :</strong>
    <div id="badges">
   <a href="https://np.linkedin.com/in/nirajan-malla-36a111210">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
