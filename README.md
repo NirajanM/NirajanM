@@ -23,7 +23,7 @@
  <br/>
  <br/>
  
-any freelance work ?, [do reach me](mailto:nirajannitro5@gmail.com)<br/> 💬 ask me about anything, i am happy to help;
+any freelance work ?, [do reach me](mailto:coder@nirajanmalla.com.np)<br/> 💬 ask me about anything, i am happy to help;
  
  <br/>
   
