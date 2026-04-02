@@ -15,11 +15,10 @@
   <br/>
    
 
-- Full stack developer (MERN)
+- Fullstack(MERN) & shopify Developer
 - loves React.ts
-- crush on web 3.0 and metaverse
 - good at programming
-- coding everyday
+- exploring AI and automations
  <br/>
  <br/>
  
