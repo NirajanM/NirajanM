@@ -1,11 +1,23 @@
-# Nirajan Malla
+<a href="https://nirajanmalla.com.np">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4500&pause=500&color=808080&background=FFFFFF00&vCenter=true&width=435&lines=Fullstack+Engineer+|+React,Next.js;Shopify+Development+with+liquid.;50%2B+projects+Delivered.;Learning+AI+tools+on+side.;Open+to+remote+roles." alt="Typing SVG" />
+</a>
+ 
+<a href="https://nirajanmalla.com.np">
+ <img src="./cover.jpg" />
+</a>
+
+---
+
+<br/>
+ <img src="./about me.gif" height="82px" margin=""/>
+<br/>
 
 Fullstack Engineer & Shopify Developer.
 
 Building React/Next.js apps and Shopify stores for clients across Australia.
 Three years freelancing, 50+ projects, all five star rated.
 
----
+<br />
 
 **Core stack**
 
