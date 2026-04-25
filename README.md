@@ -43,4 +43,4 @@ Zustand · TanStack Query · ShadCN · Firebase · MySQL · n8n · Flowise · Li
 
 Open to remote Shopify developer and frontend/fullstack roles.
 
-[Portfolio](https://nirajanmalla.com.np) · [LinkedIn](https://np.linkedin.com/in/nirajan-malla) · [Email](mailto:coder@nirajanmalla.com.np) · [Discord]([mailto:coder@nirajanmalla.com.np](https://discord.com/users/461510337678540822))
+[Portfolio](https://nirajanmalla.com.np) · [LinkedIn](https://np.linkedin.com/in/nirajan-malla) · [Email](mailto:coder@nirajanmalla.com.np) · [Discord](https://discord.com/users/461510337678540822)
